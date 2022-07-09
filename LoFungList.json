@@ -1,6 +1,6 @@
 {
     "name": "老鳳狙擊List",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "homepage": "https://github.com/LibelLists/LoFungList",
     "color": "#ffdd00",
     "data": {
@@ -9573,6 +9573,13 @@
                 "text": "狗隻",
                 "reason": "請問我係五毛吹咩(狗隻#82267)你屙尿嗰陣起左腳定右腳?",
                 "url": "https://lihkg.com/thread/3068714/page/1"
+            }
+        ],
+        "16659": [
+            {
+                "text": "狗隻",
+                "reason": "請問施丹覓腸夢巴黎(狗隻#16659)你屙尿嗰陣起左腳定右腳?",
+                "url": "https://lihkg.com/thread/3069537/page/1"
             }
         ]
     }
