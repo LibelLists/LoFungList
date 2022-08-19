@@ -4,9 +4,11 @@ https://libellists.github.io/LoFungList/LoFungList.json
 
 ## Q&A
 
-Q#281306：想問下狗隻同曱甴有咩分別?
+Q.
 
-A
+#281306：想問下狗隻同曱甴有咩分別?
+
+A.
 
 狗隻
 
